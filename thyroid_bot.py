@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Qalqonsimon bez va bosh-bo'yin o'sma kasalliklari bo'yicha maslahat boti
-Dr. Avaz Kodirov | +998915281595 | @AvazKodirov
+Dr. Avaz Qodirov | +998915281595 | @AvazKodirov
 """
 
 import logging
@@ -84,7 +84,7 @@ TEXTS = {
             "⚠️ Siz belgilagan alomatlar qalqonsimon bez kasalligi "
             "(tireotoksikoz, gipotireoz yoki tugunli buqoq) bilan bog'liq bo'lishi mumkin.\n\n"
             "✅ Mutaxassis shifokorga murojaat qilish tavsiya etiladi.\n\n"
-            "👨‍⚕️ <b>Dr. Avaz Kodirov</b> — Endokrinolog\n"
+            "👨‍⚕️ <b>Dr. Avaz Qodirov</b> — Tireoidolog\n"
             "Qalqonsimon bez kasalliklari bo'yicha mutaxassis\n\n"
             "{contact}\n\n"
             "Murojaat qilishdan tortinmang — erta aniqlash davolanishni osonlashtiradi! 🙏"
@@ -92,7 +92,7 @@ TEXTS = {
         "thyroid_no": (
             "✅ Yaxshi! Hozircha qalqonsimon bez kasalligi belgilari ko'rinmayapti.\n\n"
             "Profilaktika maqsadida yiliga bir marta endokrinologga ko'rinish tavsiya etiladi.\n\n"
-            "👨‍⚕️ <b>Dr. Avaz Kodirov</b> — Endokrinolog\n\n"
+            "👨‍⚕️ <b>Dr. Avaz Qodirov</b> — Tireoidolog\n\n"
             "{contact}"
         ),
 
@@ -116,7 +116,7 @@ TEXTS = {
             "❗ Diqqat: Bosh, yuz, quloq oldi, jag' osti va bo'yin sohasidagi har qanday hosila "
             "yoki o'sma <b>xavfli yoki xavfsiz</b> bo'lishi mumkin.\n\n"
             "✅ Aniq tashxis uchun mutaxassis shifokorga imkon qadar tezroq murojaat qiling!\n\n"
-            "👨‍⚕️ <b>Dr. Avaz Kodirov</b> — Bosh-bo'yin o'smalari mutaxassisi\n\n"
+            "👨‍⚕️ <b>Dr. Avaz Qodirov</b> — Bosh-bo'yin o'smalari mutaxassisi\n\n"
             "{contact}\n\n"
             "Erta murojaat — muvaffaqiyatli davolanish garovidir! 🙏"
         ),
@@ -124,14 +124,14 @@ TEXTS = {
             "✅ Yaxshi! Hozircha bosh-bo'yin o'sma kasalligi belgilari ko'rinmayapti.\n\n"
             "Shu bilan birga, bo'yin, yuz yoki bosh sohasida biror o'zgarish sezсangиz, "
             "kechiktirmay mutaxassisga murojaat qiling.\n\n"
-            "👨‍⚕️ <b>Dr. Avaz Kodirov</b>\n\n"
+            "👨‍⚕️ <b>Dr. Avaz Qodirov</b>\n\n"
             "{contact}"
         ),
 
         # ── Umumiy ──
         "contact": (
-            "👨‍⚕️ <b>Dr. Avaz Kodirov</b>\n"
-            "Endokrinolog | Bosh-bo'yin o'smalari mutaxassisi\n\n"
+            "👨‍⚕️ <b>Dr. Avaz Qodirov</b>\n"
+            "Tireoidolog| Bosh-bo'yin o'smalari mutaxassisi\n\n"
             f"📞 Telefon: <code>{DOCTOR_PHONE}</code>\n"
             f"💬 Telegram: {DOCTOR_TELEGRAM}\n\n"
             "📱 Agar telefonga javob bera olmasa, Telegramga yozing — tez orada javob beriladi!\n\n"
@@ -143,7 +143,7 @@ TEXTS = {
             "dastlabki ma'lumot berish uchun yaratilgan.\n\n"
             "⚠️ Diqqat: Bot tibbiy tashxis qo'ymaydi. "
             "Aniq tashxis va davolash uchun mutaxassis shifokorga murojaat qiling.\n\n"
-            "👨‍⚕️ <b>Dr. Avaz Kodirov</b>\n"
+            "👨‍⚕️ <b>Dr. Avaz Qodirov</b>\n"
             f"📞 {DOCTOR_PHONE} | 💬 {DOCTOR_TELEGRAM}"
         ),
         "back": "🔙 Orqaga",
@@ -193,7 +193,7 @@ TEXTS = {
             "⚠️ Отмеченные вами симптомы могут быть связаны с заболеванием щитовидной железы "
             "(тиреотоксикоз, гипотиреоз или узловой зоб).\n\n"
             "✅ Рекомендуется обратиться к специалисту.\n\n"
-            "👨‍⚕️ <b>Др. Аваз Кодиров</b> — Эндокринолог\n"
+            "👨‍⚕️ <b>Др. Аваз Кодиров</b> — Тиреоидолог\n"
             "Специалист по заболеваниям щитовидной железы\n\n"
             "{contact}\n\n"
             "Не стесняйтесь обращаться — раннее выявление упрощает лечение! 🙏"
@@ -201,7 +201,7 @@ TEXTS = {
         "thyroid_no": (
             "✅ Хорошо! Серьёзных симптомов заболевания щитовидной железы пока не наблюдается.\n\n"
             "Для профилактики рекомендуется посещать эндокринолога раз в год.\n\n"
-            "👨‍⚕️ <b>Др. Аваз Кодиров</b> — Эндокринолог\n\n"
+            "👨‍⚕️ <b>Др. Аваз Кодиров</b> — Тиреоидолог\n\n"
             "{contact}"
         ),
 
