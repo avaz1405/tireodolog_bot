@@ -100,14 +100,14 @@ TEXTS = {
         "tumor_q": (
             "Bosh-bo'yin o'sma kasalliklari belgilari:\n"
             "Sizda qaysilar bor? Raqam yozing yoki o'zingiz tasvirlab bering.\n\n"
-            "1️⃣ Boshning sochli qismida g'o'la yoki o'sma\n"
+            "1️⃣ Boshning sochli qismida hosila yoki o'sma\n"
             "2️⃣ Yuzda (yonoq, peshona, burun atrofi) hosila yoki shish\n"
             "3️⃣ Quloq oldi sohasida tugun yoki shish\n"
             "4️⃣ Jag' osti sohasida hosila yoki limfa tugunlari kattalashishi\n"
-            "5️⃣ Bo'yin sohasida tugun, shish yoki og'riq\n"
+            "5️⃣ Bo'yin sohasida hosila, shish yoki og'riq\n"
             "6️⃣ Yutinishda qiyinchilik yoki tomog'da tiqilish\n"
             "7️⃣ Ovoz o'zgarishi, xirillash\n"
-            "8️⃣ Og'izda, tilning osti yoki yonoq ichida yarа yoki hosila\n\n"
+            "8️⃣ Og'izda, tilning osti, til yoki lunj soxasida yarа yoki hosila\n\n"
             "0️⃣ Hech qanday belgi yo'q"
         ),
         "tumor_has": (
