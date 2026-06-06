@@ -84,7 +84,7 @@ TEXTS = {
             "⚠️ Siz belgilagan alomatlar qalqonsimon bez kasalligi "
             "(tireotoksikoz, gipotireoz yoki tugunli buqoq) bilan bog'liq bo'lishi mumkin.\n\n"
             "✅ Mutaxassis shifokorga murojaat qilish tavsiya etiladi.\n\n"
-            "👨‍⚕️ <b>Dr. Avaz Qodirov</b> — Tireoidolog\n"
+            "👨‍⚕️ <b>Dr. Avaz Qodirov</b> — Tireoidolog-jarrox\n"
             "Qalqonsimon bez kasalliklari bo'yicha mutaxassis\n\n"
             "{contact}\n\n"
             "Murojaat qilishdan tortinmang — erta aniqlash davolanishni osonlashtiradi! 🙏"
@@ -92,7 +92,7 @@ TEXTS = {
         "thyroid_no": (
             "✅ Yaxshi! Hozircha qalqonsimon bez kasalligi belgilari ko'rinmayapti.\n\n"
             "Profilaktika maqsadida yiliga bir marta endokrinologga ko'rinish tavsiya etiladi.\n\n"
-            "👨‍⚕️ <b>Dr. Avaz Qodirov</b> — Tireoidolog\n\n"
+            "👨‍⚕️ <b>Dr. Avaz Qodirov</b> — Tireoidolog-jarrox\n\n"
             "{contact}"
         ),
 
@@ -131,7 +131,7 @@ TEXTS = {
         # ── Umumiy ──
         "contact": (
             "👨‍⚕️ <b>Dr. Avaz Qodirov</b>\n"
-            "Tireoidolog| Bosh-bo'yin o'smalari mutaxassisi\n\n"
+            "Tireoidolog-jarrox| Bosh-bo'yin o'smalari mutaxassisi\n\n"
             f"📞 Telefon: <code>{DOCTOR_PHONE}</code>\n"
             f"💬 Telegram: {DOCTOR_TELEGRAM}\n\n"
             "📱 Agar telefonga javob bera olmasa, Telegramga yozing — tez orada javob beriladi!\n\n"
@@ -193,7 +193,7 @@ TEXTS = {
             "⚠️ Отмеченные вами симптомы могут быть связаны с заболеванием щитовидной железы "
             "(тиреотоксикоз, гипотиреоз или узловой зоб).\n\n"
             "✅ Рекомендуется обратиться к специалисту.\n\n"
-            "👨‍⚕️ <b>Др. Аваз Кодиров</b> — Тиреоидолог\n"
+            "👨‍⚕️ <b>Др. Аваз Кодиров</b> — Тиреоидолог-хирург\n"
             "Специалист по заболеваниям щитовидной железы\n\n"
             "{contact}\n\n"
             "Не стесняйтесь обращаться — раннее выявление упрощает лечение! 🙏"
@@ -201,7 +201,7 @@ TEXTS = {
         "thyroid_no": (
             "✅ Хорошо! Серьёзных симптомов заболевания щитовидной железы пока не наблюдается.\n\n"
             "Для профилактики рекомендуется посещать эндокринолога раз в год.\n\n"
-            "👨‍⚕️ <b>Др. Аваз Кодиров</b> — Тиреоидолог\n\n"
+            "👨‍⚕️ <b>Др. Аваз Кодиров</b> — Тиреоидолог-хирург\n\n"
             "{contact}"
         ),
 
@@ -238,7 +238,7 @@ TEXTS = {
 
         "contact": (
             "👨‍⚕️ <b>Др. Аваз Кодиров</b>\n"
-            "Эндокринолог | Специалист по опухолям головы и шеи\n\n"
+            "Тиреоидолог-хирург| Специалист по опухолям головы и шеи\n\n"
             f"📞 Телефон: <code>{DOCTOR_PHONE}</code>\n"
             f"💬 Telegram: {DOCTOR_TELEGRAM}\n\n"
             "📱 Если не дозвонились — напишите в Telegram, ответ придёт в ближайшее время!\n\n"
